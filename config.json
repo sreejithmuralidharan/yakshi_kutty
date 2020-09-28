@@ -1,0 +1,12 @@
+{
+    "CONSUMER_KEY" : "",
+    "CONSUMER_SECRET" :"",
+    "ACCESS_KEY" : "",
+    "ACCESS_SECRET" : "",
+    "MONGO_PASSWORD":"",
+    "SEARCH_LANGUAGE":"ml",
+    "BED_TIME":20,
+    "SLEEP_HOURS":6,
+    "NAP_MINS":15,
+    "MIN_FRIENDS_COUNT_FOR_RETWEET":30
+}
