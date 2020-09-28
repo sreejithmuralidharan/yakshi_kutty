@@ -9,7 +9,7 @@ import pymongo
 import sys
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-config_file = os.path.join(dir_path, 'config.json')
+config_file = os.path.join(dir_path, 'config.py')
 
 try:
     with open(config_file, 'r') as f:
