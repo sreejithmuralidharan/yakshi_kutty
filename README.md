@@ -1,6 +1,8 @@
 # Yakshi Kutty
 A simple python based multilingual twitter bot that will search trending tweets in a particular language and will fav, retweet and send follow requests.
-This bot is expected to run round the clock with some periods of sleep and naps (based on the config file). We will store the results of the program in MongoDb, which can create some cool charts for visualising our data. For the simplicity, we will only include process data (i.e. any information about users or tweets won't be saved in the database). You can easily save the tweet info to the database with few lines of codes. I will try to include that in a future version.
+This bot is expected to run round the clock with some periods of sleep and naps (based on the config file). We will store the results of the program in MongoDb, which can create some cool charts for visualising our data. 
+![Alt text](https://github.com/sreejithmuralidharan/yakshi_kutty/blob/master/mongodb_example.png "MongoDb example")
+For the simplicity, we will only include process data (i.e. any information about users or tweets won't be saved in the database). You can easily save the tweet info to the database with few lines of codes. I will try to include that in a future version.
 
 ## Requirements
 - Python3
