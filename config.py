@@ -1,5 +1,5 @@
 {
-    # Twitter Developer Account keys
+  # Twitter Developer Account keys
     "CONSUMER_KEY" : "",
     "CONSUMER_SECRET" :"",
     "ACCESS_KEY" : "",
