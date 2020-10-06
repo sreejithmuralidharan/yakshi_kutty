@@ -37,5 +37,5 @@ For the simplicity, we will only include process data (i.e. any information abou
 
 + Run
 	```bash
-	  python twitter.py
+	  python twitter_crawler.py
 	```
